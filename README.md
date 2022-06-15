@@ -45,12 +45,14 @@
   
 </div>
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6932305807237619712" height="680" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 ---
 
 
 
 <br />
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6932305807237619712" height="680" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 <div align="center">
   
