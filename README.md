@@ -25,13 +25,13 @@
   
 ### Quick Links
   
-<a href='[https://www.linkedin.com/posts/naman-kansal-372592211_slack-iot-slack-activity-6893193122525118464-4wmz](https://www.linkedin.com/posts/naman-kansal-372592211_iot-google-technology-activity-6932305992567136256-k9HI?utm_source=linkedin_share&utm_medium=member_desktop_web)'>
+<a href='https://www.linkedin.com/posts/naman-kansal-372592211_iot-google-technology-activity-6932305992567136256-k9HI?utm_source=linkedin_share&utm_medium=member_desktop_web'>
   
 <img src='https://img.shields.io/badge/DEMO-gray?style=for-the-badge'>
   
 </a>
   
-<a href='[https://www.instructables.com/Slack-Status-Updater-With-ESP8266/](https://www.instructables.com/IoT-Based-TV-RemoteIR-Blaster-With-Google-Assistan/)'>
+<a href='https://www.instructables.com/Slack-Status-Updater-With-ESP8266/](https://www.instructables.com/IoT-Based-TV-RemoteIR-Blaster-With-Google-Assistan/'>
   
 <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
   
