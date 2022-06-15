@@ -1,4 +1,4 @@
-# IoT-Ir-Blaster <a href="https://www.animatedimages.org/cat-antennas-324.htm"><img height="50" width="50" src="https://www.animatedimages.org/data/media/324/animated-antenna-image-0026.gif" border="0" alt="animated-antenna-image-0026" /></a>
+# IoT-Ir-Blaster <a href="https://www.animatedimages.org/cat-antennas-324.htm"><img height="50" width="75" src="https://www.animatedimages.org/data/media/324/animated-antenna-image-0026.gif" border="0" alt="animated-antenna-image-0026" /></a>
 <p align="center">
   <img width="300" height="300" src="https://content.instructables.com/ORIG/F2V/7EHN/L38QOGCQ/F2V7EHNL38QOGCQ.jpg">
 </p>
