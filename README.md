@@ -58,8 +58,8 @@
   
 
 [PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-Ir-Blaster#-project-philosophy) • 
-[TECH STACK](https://https://github.com/NamanKansal230505/IoT-Ir-Blaster#-tech-stack) • 
-[SPREAD THE WORD](https://https://github.com/NamanKansal230505/IoT-Ir-Blaster#-spread-the-word) • 
+[TECH STACK](https://github.com/NamanKansal230505/IoT-Ir-Blaster#-tech-stack) • 
+[SPREAD THE WORD](https://github.com/NamanKansal230505/IoT-Ir-Blaster#-spread-the-word) • 
 
 </div>
 
