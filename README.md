@@ -25,13 +25,13 @@
   
 ### Quick Links
   
-<a href='https://www.linkedin.com/posts/naman-kansal-372592211_slack-iot-slack-activity-6893193122525118464-4wmz'>
+<a href='[https://www.linkedin.com/posts/naman-kansal-372592211_slack-iot-slack-activity-6893193122525118464-4wmz](https://www.linkedin.com/posts/naman-kansal-372592211_iot-google-technology-activity-6932305992567136256-k9HI?utm_source=linkedin_share&utm_medium=member_desktop_web)'>
   
 <img src='https://img.shields.io/badge/DEMO-gray?style=for-the-badge'>
   
 </a>
   
-<a href='https://www.instructables.com/Slack-Status-Updater-With-ESP8266/'>
+<a href='[https://www.instructables.com/Slack-Status-Updater-With-ESP8266/](https://www.instructables.com/IoT-Based-TV-RemoteIR-Blaster-With-Google-Assistan/)'>
   
 <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
   
@@ -45,7 +45,7 @@
   
 </div>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6932305807237619712" height="680" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 
 ---
 
@@ -57,9 +57,9 @@
 <div align="center">
   
 
-[PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-slack-status#-project-philosophy) • 
-[TECH STACK](https://https://github.com/NamanKansal230505/IoT-slack-status#-tech-stack) • 
-[SPREAD THE WORD](https://https://github.com/NamanKansal230505/IoT-slack-status#-spread-the-word) • 
+[PROJECT PHILOSOPHY](https://github.com/NamanKansal230505/IoT-Ir-Blaster#-project-philosophy) • 
+[TECH STACK](https://https://github.com/NamanKansal230505/IoT-Ir-Blaster#-tech-stack) • 
+[SPREAD THE WORD](https://https://github.com/NamanKansal230505/IoT-Ir-Blaster#-spread-the-word) • 
 
 </div>
 
@@ -67,11 +67,10 @@
 
 # 🧐 Project philosophy
 
-> This is an IoT based device which helps you to update your slack status on your fingertips.
-> I have included 5 status you just need to press it and change the slack status as written on it.
-> If you are a person who uses slack on daily basis, then you need to change your slack status frequently. That's why I made this IoT device for that
+> This is an IoT based device which helps you control your appliances i.e. TV, AC, using your voice commands or mobile app.
+> It can change your TV channels, AC temperature switch  it on and off and much more
+> You don't need to hustle in search of their remotes.
 
-**I got inspiration from this blog(https://www.instructables.com/Slack-Status-Updater-With-ESP8266).**
 
 
 # 👨‍💻 Tech stack
@@ -83,10 +82,7 @@ Here's a brief high-level overview of the tech stack this device uses:
 
 # ✍️ How to make one 
 
-- You need an IoT board ex: Esp8266 or Esp32
-- Install all libraries (see the blog)
-- Create a slack app
-- Install it you are ready
+- Just click on reasearch quick link for a tutorial
 
 # 🌟 Spread the word!
 
@@ -106,7 +102,7 @@ Thanks so much for your interest in growing the reach of the project!
 
 <br />
 
----
+
 
 <br />
 
