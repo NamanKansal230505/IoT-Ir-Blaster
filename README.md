@@ -1,5 +1,7 @@
 # IoT-Ir-Blaster
-<img src="https://content.instructables.com/ORIG/F2V/7EHN/L38QOGCQ/F2V7EHNL38QOGCQ.jpg" align="centre" width="300" >
+<p align="center">
+  <img width="300" height="300" src="https://content.instructables.com/ORIG/F2V/7EHN/L38QOGCQ/F2V7EHNL38QOGCQ.jpg">
+</p>
 
 <div align='center'>
   
